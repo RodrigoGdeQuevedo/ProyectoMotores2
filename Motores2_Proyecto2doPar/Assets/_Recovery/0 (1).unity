@@ -474,7 +474,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5cca95ff6305b9c44954d4d53cd32c33, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxRooms: 30
+  maxRooms: 5
   maxChilds: 3
   roomSize: 5.1
   hallLength: 5.25
